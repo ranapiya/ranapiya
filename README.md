@@ -8,7 +8,7 @@ Welcome to my GitHub profile!. Here's a little more about me and what you'll fin
 - 🚀 I'am also very well familiar with Data Structure and Algorithems
 - 🌱 Always learning .
 - 👯 I’m looking to collaborate on web dev projects.
-- 📫 How to reach me: ranapiya24@gmail.com.
+- 📫 How to reach me: 2410ranapriya@gmail.com
 
 ## 🛠️ Technologies & Tools
 
